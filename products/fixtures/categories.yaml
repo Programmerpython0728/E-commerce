@@ -1,0 +1,16 @@
+-   model: products.category
+    pk: 1
+    fields:
+        name: mevalar
+-   model: products.category
+    pk: 2
+    fields:
+        name: ichimliklar
+-   model: products.category
+    pk: 3
+    fields:
+        name: telefonlar
+-   model: products.category
+    pk: 4
+    fields:
+        name: konstovarlar
